@@ -1,7 +1,7 @@
-# Netbour
+
 <img src="readme/logo.png" alt="Netbour" style="width: 120px;"/>
 
-# Javier J. Medinilla Agüera
+
 <img src="readme/jmedinilla.png" alt="JMedinilla" style="width: 120px;"/>
 
 ## Índice
